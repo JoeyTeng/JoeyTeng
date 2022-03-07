@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Graphics, Computer Vision, Distributed System & Algorithm (implemented Raft consensus algorithm in Elixir)
+- 🤔 I’m looking for help with a 4-6 month placement about Software Development, from April or May to 16 Sep 2022
+- 📫 How to reach me: joey.teng.dev@gmail.com
+- 📝 Also checkout [my Resume here!](Hongyu%2C%20Teng.pdf) (and maybe my [LinkedIn](https://www.linkedin.com/in/hongyu-joey-teng-b3aa8314a/))
+
 <!--
 **JoeyTeng/JoeyTeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

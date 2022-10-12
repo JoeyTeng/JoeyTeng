@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’ll be joining Google UK as an intern from 30 May 2022 to 16 Sep 2022 in Fitbit team
-- 🌱 I’m currently learning Graphics, Computer Vision, Distributed System & Algorithm (implemented Raft consensus algorithm in Elixir)
+- 🔭 I’m currently a 4th year (and final year) student in Imperial College London, pursuing MEng Mathematics and Computer Science degree.
+- 🌱 I’m currently learning Graphics, Reinforcement Learning, Program Analysis, Scheduling and Resource Allocation, and Quantum Computing.
 - 📫 How to reach me: joey.teng.dev@gmail.com
 - 📝 Also checkout [my Resume here!](Hongyu%2C%20Teng.pdf) (and maybe my [LinkedIn](https://www.linkedin.com/in/hongyu-joey-teng-b3aa8314a/))
 

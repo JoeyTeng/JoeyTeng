@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a 4th year (and final year) student in Imperial College London, pursuing MEng Mathematics and Computer Science degree.
-- 🌱 I’m currently learning Graphics, Reinforcement Learning, Program Analysis, Scheduling and Resource Allocation, and Quantum Computing.
+- 🌱 I’m currently learning Graphics, Reinforcement Learning, Machine Learning (See [full course list here](https://github.com/JoeyTeng/JoeyTeng/tree/master/Imperial-College-London)).
 - 📫 How to reach me: joey.teng.dev@gmail.com
-- 📝 Also checkout [my Resume here!](Hongyu%2C%20Teng.pdf) (and maybe my [LinkedIn](https://www.linkedin.com/in/hongyu-joey-teng-b3aa8314a/))
+- 📝 Also checkout [my Resume here!](Hongyu%2C%20Teng.pdf) (and maybe my [LinkedIn](https://www.linkedin.com/in/hongyu-teng/))
 
 <!--
 **JoeyTeng/JoeyTeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

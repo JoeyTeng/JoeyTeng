@@ -15,7 +15,7 @@ Most courseworks are kept private as college's copyright policy requests. The co
   2. covers DQN and DDQN agents in [CartePole-v1](https://gymnasium.farama.org/environments/classic_control/cart_pole/) environment, using PyTorch.
 - [70068 Scheduling and Resource Allocation](https://www.imperial.ac.uk/computing/current-students/courses/70068)
   - [Coursework](https://github.com/JoeyTeng/70068-Scheduling-and-Resource-Alloation-Coursework) experiments on $1\vert\textrm{opposing forest}\vert\sum T_j$[^1], design and implement a scheduling algorithm using a combination branch-and-bound, EDD (earliest due date), and experiment the schedule to obtain real results in Azure VM.
-- [70001 Advanced Computer Graphics](http://www.imperial.ac.uk/computing/current-students/courses/70001). Courseworks (both implemented in C++):
+- [70001 Advanced Computer Graphics](http://www.imperial.ac.uk/computing/current-students/courses/70001) (also see [here](https://www.doc.ic.ac.uk/~ghosh/COMP70001.htm)). Courseworks (both implemented in C++):
   - [Assemble an HDR Image and Tonemap for Display](https://github.com/JoeyTeng/HDR-Assembler-and-Tonemapper)
   - [Environment Map Sampler using Median Cut](https://github.com/JoeyTeng/Environment-Map-Sampler-Median-Cut)
 - [70025 Software Engineering for Industry](http://www.imperial.ac.uk/computing/current-students/courses/70025). [Topics list](https://www.doc.ic.ac.uk/~ewoods1/sei70025_spring2023.html)
